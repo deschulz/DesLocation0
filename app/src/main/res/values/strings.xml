@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DesLocation0</string>
+    <string name="gps_position">GPS Position</string>
+    <string name="update">Update Position</string>
+    <string name="Latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+</resources>
